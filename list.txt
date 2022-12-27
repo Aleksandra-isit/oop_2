@@ -1,0 +1,6 @@
+Cat{nickname='Cheese', legs=4, owner='Slava'}
+Dog{nickname='Arckhi', legs=4, owner='John'}
+Duck{nickname='Donald', legs=2, owner='semen'}
+Eagle{nickname='Totoro', legs=2, owner='Damon'}
+Beaver{nickname='Muffin', legs=4, owner='Donald Duck'}
+Beaver{nickname='Charly', legs=4, owner='Tom and Jerry'}
